@@ -1,0 +1,14 @@
+Object lyife cycle 
+IOC Container
+Bean life cycle 
+
+what is @requestMapping 
+what is @restController
+what is @controller 
+what is @bean
+what is @autoconfiguration
+what is @autowired: (Method level)
+        this annotation is applied to the fields, setter methods, and constructors
+
+
+what is @responseBody
