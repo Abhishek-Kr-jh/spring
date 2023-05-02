@@ -8,7 +8,16 @@ what is @controller
 what is @bean
 what is @autoconfiguration
 what is @autowired: (Method level)
+what is @preconstruct and @predistroy ?
         this annotation is applied to the fields, setter methods, and constructors
+What is the scope of a bean?
+How to send pdf to the server?
+How to send user name password ?
+How to use header ?
+How to connect with DB using hibernate ?
+
+
+
 
 
 what is @responseBody
