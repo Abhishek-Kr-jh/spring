@@ -1,7 +1,10 @@
 Object lyife cycle 
 IOC Container
 Bean life cycle 
-
+What is annotatoion in java how it is internally workig. Where is the source code of annotation 
+What are the what are the http methods? and what is the difference between them? 
+Can I use post request to get the value instead of get?
+What is idompotent ?
 what is @requestMapping 
 what is @restController
 what is @controller 
@@ -15,6 +18,7 @@ How to send pdf to the server?
 How to send user name password ?
 How to use header ?
 How to connect with DB using hibernate ?
+
 
 
 
