@@ -3,25 +3,24 @@ IOC Container
 Bean life cycle 
 What is annotatoion in java how it is internally workig. Where is the source code of annotation 
 What are the what are the http methods? and what is the difference between them? 
-Can I use post request to get the value instead of get?
+Can we use post request to get the value instead of get?
 What is idompotent ?
 what is @requestMapping 
 what is @restController
 what is @controller 
+what is @responseBody
 what is @bean
 what is @autoconfiguration
 what is @autowired: (Method level)
 what is @preconstruct and @predistroy ?
         this annotation is applied to the fields, setter methods, and constructors
 What is the scope of a bean?
+Can we register two bean ? What error will get when two bean is registered? How to handle two bean 
 How to send pdf to the server?
 How to send user name password ?
 How to use header ?
 How to connect with DB using hibernate ?
+Explain MVC ? Can we write repository(DB) code in controller?
 
 
 
-
-
-
-what is @responseBody
