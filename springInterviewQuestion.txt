@@ -9,8 +9,8 @@ what is @requestMapping
 what is @restController
 what is @controller 
 what is @responseBody
-what is @bean
-what is @autoconfiguration
+what is @bean, @value
+what is @confugration, @autoconfiguration
 what is @autowired: (Method level)
 what is @preconstruct and @predistroy ?
         this annotation is applied to the fields, setter methods, and constructors
