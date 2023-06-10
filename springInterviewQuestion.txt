@@ -21,6 +21,6 @@ How to send user name password ?
 How to use header ?
 How to connect with DB using hibernate ?
 Explain MVC ? Can we write repository(DB) code in controller?
-
+If we send data from one miroservices to another microservices and in the mid we lost data how to recover that and what will be your strategy ?
 
 
